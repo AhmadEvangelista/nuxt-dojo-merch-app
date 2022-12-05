@@ -5,7 +5,9 @@
 </template>
 
 <script>
-export default {};
+definePageMeta({
+  layout: 'products',
+});
 </script>
 
 <style lang="scss" scoped></style>
